@@ -130,6 +130,7 @@ Output:
 
 <br>
 
+
 ### Delete a Pokemon
 
 | Parameter       | Description                                                                                                                                                                                   |
